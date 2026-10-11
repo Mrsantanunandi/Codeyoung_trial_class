@@ -48,55 +48,55 @@ The complete journey, from landing on the site to both emails arriving. Live dem
 
 **1. Landing / hero** – headline, "Free trial class · Live 1:1 mentors" badge and the **Book a FREE trial class** call to action.
 
-![Home page hero](docs/screenshots/01-home-hero.png)
+![Home page hero](docs/docs/screenshots/01-home-hero.png)
 
 **2. Highlights** – one child, one mentor · clear progress · any time zone · free trial class.
 
-![Home page highlights](docs/screenshots/02-home-highlights.png)
+![Home page highlights](docs/docs/screenshots/02-home-highlights.png)
 
 **3. Courses** – Programming, Maths, Science, English and Robotics.
 
-![Courses section](docs/screenshots/03-home-courses.png)
+![Courses section](docs/docs/screenshots/03-home-courses.png)
 
 **4. How it works** – share your details, pick a date and time, join the class.
 
-![How it works](docs/screenshots/04-home-how-it-works.png)
+![How it works](docs/docs/screenshots/04-home-how-it-works.png)
 
 **5. About us** – live, interactive 1:1 sessions with automatically matched mentors.
 
-![About section](docs/screenshots/05-home-about.png)
+![About section](docs/docs/screenshots/05-home-about.png)
 
 **6. Newsletter** – "Parenting Matters" email subscription box.
 
-![Newsletter section](docs/screenshots/06-home-newsletter.png)
+![Newsletter section](docs/docs/screenshots/06-home-newsletter.png)
 
 ### Part B: Booking journey (no login)
 
 **7. Step 1 – Your details** – parent's name, email, phone with country code and time zone.
 
-![Booking details form](docs/screenshots/07-booking-details.png)
+![Booking details form](docs/docs/screenshots/07-booking-details.png)
 
 **8. Step 2a – No slots available** – when every slot for the day is taken, the page shows *"No slot is available today! You can try to book tomorrow."* with a **Try tomorrow** button.
 
-![No slots available](docs/screenshots/08-no-slots-available.png)
+![No slots available](docs/docs/screenshots/08-no-slots-available.png)
 
 **9. Step 2b – Choose a time** – pick a date on the calendar; free start times are shown in the parent's own time zone (here EDT), with the number of free slots for that day.
 
-![Available time slots](docs/screenshots/09-select-time-slot.png)
+![Available time slots](docs/docs/screenshots/09-select-time-slot.png)
 
 **10. Step 3 – Confirmation** – assigned mentor, class time in the parent's time zone, class link, booking reference, and **Cancel this booking**.
 
-![Booking confirmed](docs/screenshots/10-booking-confirmed.png)
+![Booking confirmed](docs/docs/screenshots/10-booking-confirmed.png)
 
 ### Part C: Automatic emails
 
 **11. Parent email** – mentor name, class time in the *parent's* local time, join link and cancel link.
 
-![Parent confirmation email](docs/screenshots/11-parent-email.png)
+![Parent confirmation email](docs/docs/screenshots/11-parent-email.png)
 
 **12. Mentor email** – the same class in the *mentor's* local time (IST), parent's name and join link.
 
-![Mentor notification email](docs/screenshots/12-mentor-email.png)
+![Mentor notification email](docs/docs/screenshots/12-mentor-email.png)
 
 ---
 
